@@ -3,7 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iishujainn" alt="iishujainn" /></a> </p>
 
+- 🌱 I’m currently learning **Computer Vision**
+
+- 💬 Ask me about **Machine Learning**
+
 - 📫 How to reach me **ishujainbrt@gmail.com**
+
+- ⚡ Fun fact **I study in DIT University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
