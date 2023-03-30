@@ -1,3 +1,5 @@
+![logo](https://github.com/IishuJainn/Iishujainn/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Ishu Jain</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
