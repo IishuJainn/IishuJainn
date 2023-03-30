@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishu Jain</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iishujainn" alt="iishujainn" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 
 - 🌱 I’m currently learning **Computer Vision**
 
@@ -27,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iishujainn&show_icons=true&locale=en" alt="iishujainn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iishujainn&" alt="iishujainn" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iishujainn" alt="iishujainn" /></a> </p>
