@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **GEN AI**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Deep Learning**
 
 - 📫 How to reach me **ishujainbrt@gmail.com**
 
