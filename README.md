@@ -15,9 +15,12 @@
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishu-jain-a1379623b" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishu-jain-a1379623b" height="30" width="40" /> LinkedIn: Connect with me professionally.</a><br/>
+   
 <a href="https://kaggle.com/ishujain25" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishujain25" height="30" width="40" /> Kaggle: Explore my data science projects.</a><br/>
+
 <a href="https://instagram.com/iishujainn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iishujainn" height="30" width="40" /> Instagram: Updates on my projects and interests.</a><br/>
-<a href="https://auth.geeksforgeeks.org/user/ishujaqlus" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishujaqlus" height="30" width="40" /> GeeksforGeeks: Check out my technical articles.</a>
+
+<a href="https://www.geeksforgeeks.org/user/ishujain25/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishujaqlus" height="30" width="40" /> GeeksforGeeks: Check out my technical articles.</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,9 +63,6 @@
    </a>
 </p>
 
-<h3 align="left">Top Projects:</h3>
-- 🌟 [Project 1](#): Brief description
-- 🌟 [Project 2](#): Brief description
 
 # 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Iishujainn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
